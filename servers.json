@@ -1,11 +1,11 @@
 [
   {
-	"Geography": "Africa",
-	"Region": "South Africa North",
-	"Location": "Johannesburg",
-	"Hostnames": [
-	  "pfmsqos.southafricanorth.cloudapp.azure.com"
-	  ]
+    "Geography": "Africa",
+    "Region": "South Africa North",
+    "Location": "Johannesburg",
+    "Hostnames": [
+      "pfmsqos.southafricanorth.cloudapp.azure.com"
+    ]
   },
   {
     "Geography": "Asia Pacific",
@@ -25,6 +25,30 @@
   },
   {
     "Geography": "Australia",
+    "Region": "Australia Central",
+    "Location": "Canberra",
+    "Hostnames": [
+      "pfmsqos.australiacentral.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Australia",
+    "Region": "Australia East",
+    "Location": "New South Wales",
+    "Hostnames": [
+      "pfmsqos.australiaeast.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Australia",
+    "Region": "Australia Southeast",
+    "Location": "Victoria",
+    "Hostnames": [
+      "pfmsqos.australiasoutheast.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Australia",
     "Region": "East Australia",
     "Location": "New South Wales",
     "Hostnames": [
@@ -32,11 +56,19 @@
     ]
   },
   {
-    "Geography": "Brazil",
-    "Region": "South Brazil",
-    "Location": "Sao Paulo State",
+    "Geography": "Canada",
+    "Region": "Canada Central",
+    "Location": "Toronto",
     "Hostnames": [
-      "pfmsqos.brazilsouth.cloudapp.azure.com"
+      "pfmsqos.canadacentral.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Canada",
+    "Region": "Canada East",
+    "Location": "Quebec",
+    "Hostnames": [
+      "pfmsqos.canadaeast.cloudapp.azure.com"
     ]
   },
   {
@@ -56,6 +88,78 @@
     ]
   },
   {
+    "Geography": "Europe",
+    "Region": "France Central",
+    "Location": "Paris",
+    "Hostnames": [
+      "pfmsqos.francecentral.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Europe",
+    "Region": "Germany West Central",
+    "Location": "Frankfurt",
+    "Hostnames": [
+      "pfmsqos.germanywestcentral.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Europe",
+    "Region": "Sweden Central",
+    "Location": "Gävle",
+    "Hostnames": [
+      "pfmsqos.swedencentral.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Europe",
+    "Region": "Switzerland North",
+    "Location": "Zurich",
+    "Hostnames": [
+      "pfmsqos.switzerlandnorth.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Europe",
+    "Region": "UK South",
+    "Location": "London",
+    "Hostnames": [
+      "pfmsqos.uksouth.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Europe",
+    "Region": "UK West",
+    "Location": "Cardiff",
+    "Hostnames": [
+      "pfmsqos.ukwest.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "India",
+    "Region": "Central India",
+    "Location": "Pune",
+    "Hostnames": [
+      "pfmsqos.centralindia.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "India",
+    "Region": "South India",
+    "Location": "Chennai",
+    "Hostnames": [
+      "pfmsqos.southindia.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "India",
+    "Region": "West India",
+    "Location": "Mumbai",
+    "Hostnames": [
+      "pfmsqos.westindia.cloudapp.azure.com"
+    ]
+  },
+  {
     "Geography": "Japan",
     "Region": "East Japan",
     "Location": "Tokyo, Saitama",
@@ -69,6 +173,46 @@
     "Location": "Osaka",
     "Hostnames": [
       "pfmsqos.japanwest.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Korea",
+    "Region": "Korea Central",
+    "Location": "Seoul",
+    "Hostnames": [
+      "pfmsqos.koreacentral.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Korea",
+    "Region": "Korea South",
+    "Location": "Busan",
+    "Hostnames": [
+      "pfmsqos.koreasouth.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Middle East",
+    "Region": "UAE North",
+    "Location": "Dubai",
+    "Hostnames": [
+      "pfmsqos.uaenorth.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "South America",
+    "Region": "Brazil South",
+    "Location": "Sao Paulo State",
+    "Hostnames": [
+      "pfmsqos.brazilsouth.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "South America",
+    "Region": "Brazil Southeast",
+    "Location": "Rio",
+    "Hostnames": [
+      "pfmsqos.brazilsoutheast.cloudapp.azure.com"
     ]
   },
   {
@@ -113,18 +257,34 @@
   },
   {
     "Geography": "United States",
+    "Region": "West Central US",
+    "Location": "Wyoming",
+    "Hostnames": [
+      "pfmsqos.westcentralus.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "United States",
     "Region": "West US",
     "Location": "California, San Jose",
     "Hostnames": [
       "pfmsqos.westus.cloudapp.azure.com"
     ]
   },
-    {
+  {
     "Geography": "United States",
     "Region": "West US 2",
     "Location": "Washington State",
     "Hostnames": [
       "pfmsqos.westus2.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "United States",
+    "Region": "West US 3",
+    "Location": "Phoenix, Arizona",
+    "Hostnames": [
+      "pfmsqos.westus3.cloudapp.azure.com"
     ]
   }
 ]
